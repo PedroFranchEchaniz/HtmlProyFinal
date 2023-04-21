@@ -1,9 +1,5 @@
 .bannerHead{
-    background-color: rgb(231, 200, 22);    
-}
-
-//Crear una animacion para un logo al hacer hover sobre el 
-
-.logoAnimado:hover{
-    animation: girar 1s linear infinite;
+    background-color: rgb(231, 200, 22);
+    height: 50px;
+    padding: 5px;  
 }
