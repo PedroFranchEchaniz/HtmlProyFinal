@@ -28,9 +28,13 @@
     position: relative;
   }
   
-  .navbar-brand img {
+.navbar-brand img {
     position: absolute;
     bottom: -80px;
     max-height: 120px;
-  }
+}
+
+.card{
+    margin-top: 40px;
+}
 
