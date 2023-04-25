@@ -2,27 +2,35 @@
 	color: #f5a623;
 }
 
-.navbar-brand img {
-	max-height: 50px;
-}
 
 .navbar-nav {
 	margin-right: 0;
 }
 
-.navbar-nav li {
+.navbar-nav li{
 	margin-right: 10px;
 }
 
-.navbar-nav li:last-child {
-	margin-right: 0;
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-nav form {
+    display: flex;
+    align-items: center;
 }
 
 .nav-link {
 	font-weight: bold;
 }
 
-.fa-shopping-cart:before {
-	font-size: 18px;
-	margin-right: 5px;
-}
+.navbar-brand {
+    position: relative;
+  }
+  
+  .navbar-brand img {
+    position: absolute;
+    bottom: -80px;
+    max-height: 120px;
+  }
+
