@@ -1,5 +1,28 @@
-.bannerHead{
-    background-color: rgb(231, 200, 22);
-    height: 50px;
-    padding: 5px;  
+.navbar-nav li a:hover {
+	color: #f5a623;
+}
+
+.navbar-brand img {
+	max-height: 50px;
+}
+
+.navbar-nav {
+	margin-right: 0;
+}
+
+.navbar-nav li {
+	margin-right: 10px;
+}
+
+.navbar-nav li:last-child {
+	margin-right: 0;
+}
+
+.nav-link {
+	font-weight: bold;
+}
+
+.fa-shopping-cart:before {
+	font-size: 18px;
+	margin-right: 5px;
 }
