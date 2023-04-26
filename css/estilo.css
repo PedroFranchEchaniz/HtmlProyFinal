@@ -34,7 +34,33 @@
     max-height: 120px;
 }
 
-.card{
+.maincontainer {
     margin-top: 40px;
+    padding: 2%;
 }
 
+.side{
+    background-color: #f5f5f5;
+    padding: 2%;
+    border-radius: 5px;
+    margin:2%;
+}
+
+.side a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.side a:hover{
+    color: #f5a623;
+}
+
+
+.footercontainer div{
+    text-align: center;
+    font-weight: bold;
+}
+
+.card a:hover{
+    color: #f5a623;
+}
