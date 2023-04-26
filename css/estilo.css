@@ -54,8 +54,10 @@
 .side a:hover{
     color: #f5a623;
 }
-
-
+.footer{
+    position:absolute;
+    bottom:0;
+}
 .footercontainer div{
     text-align: center;
     font-weight: bold;
