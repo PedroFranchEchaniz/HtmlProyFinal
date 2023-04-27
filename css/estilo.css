@@ -31,6 +31,7 @@
 .navbar-brand img {
     position: absolute;
     bottom: -80px;
+    right: -200px;
     max-height: 120px;
 }
 
@@ -54,10 +55,7 @@
 .side a:hover{
     color: #f5a623;
 }
-.footer{
-    position:absolute;
-    bottom:0;
-}
+
 .footercontainer div{
     text-align: center;
     font-weight: bold;
@@ -70,3 +68,48 @@
 .carousel-inner{
     background-color: #f5a623;
 }
+
+.contenedorform{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top:2%; 
+    padding-right: 4%;
+    padding-left: 4%;   
+}
+
+.contenedorfildset{
+    padding: 3%;    
+}
+
+.contenedorfildset2{
+    padding: 3%;    
+}
+
+.contenedorfildset label{
+    margin-top: 10px;    
+}
+
+.contenedorfildset2 label{
+    margin-top: 10px;    
+}
+
+
+.contenedorfildset label+input{
+    margin-top: 10px;    
+}
+
+.contenedorfildset2 label+input{
+    margin-top: 10px;    
+}
+
+.contenedorfildset label+input:hover{
+    background-color: #f5a623; 
+}
+
+.contenedorfildset2 label+input:hover{
+    background-color: #f5a623;
+}
+
+
+
