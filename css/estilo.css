@@ -2,7 +2,6 @@
 	color: #f5a623;
 }
 
-
 .navbar-nav {
 	margin-right: 0;
 }
@@ -70,7 +69,7 @@
 }
 
 .contenedorform{
-    margin-top: 50px;
+    margin-top: 20px;
     margin-left: 50px;
     margin-right: 50px;
     padding-top:2%; 
@@ -109,6 +108,15 @@
 
 .contenedorfildset2 label+input:hover{
     background-color: #f5a623;
+}
+
+.imgUsuario{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.imgUsuario img{
+    max-width: 120px;
 }
 
 
