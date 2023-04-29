@@ -36,7 +36,7 @@
 
 .maincontainer {
     margin-top: 40px;
-    padding: 2%;
+    padding: 2%;    
 }
 
 .side{
@@ -117,6 +117,10 @@
 
 .imgUsuario img{
     max-width: 120px;
+}
+
+.descripcion{
+    width: 585px;    
 }
 
 
