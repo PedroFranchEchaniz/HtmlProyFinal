@@ -58,6 +58,8 @@
 .footercontainer div{
     text-align: center;
     font-weight: bold;
+    border: red solid;
+    margin-top: 200px;    
 }
 
 .card a:hover{
