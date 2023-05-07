@@ -82,6 +82,7 @@
 
 .contenedorform>fieldset>p{
     display: none;
+    color: red;
 }
 
 .contenedorfildset{
