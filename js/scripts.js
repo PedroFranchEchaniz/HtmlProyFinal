@@ -6,8 +6,10 @@ let indice = 1;
 
 function compararContrasenias(){
     if(contransena.value == contrasena.value){
-        alert('Las contraseñas coinciden');
+        
     }else{
-        alert('Las contraseñas no coinciden');
+        let mostrarmenaje = document.getElementById('mensajeContraseña');
+        mostrarmenaje.setAttribute('style', 'display: block');
+        
     }
 }
