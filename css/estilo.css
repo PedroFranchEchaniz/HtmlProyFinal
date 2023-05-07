@@ -80,6 +80,10 @@
     padding-left: 1%;   
 }
 
+.contenedorform>fieldset>p{
+    display: none;
+}
+
 .contenedorfildset{
     padding: 3%;    
 }
